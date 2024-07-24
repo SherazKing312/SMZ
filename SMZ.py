@@ -1,3 +1,3 @@
 import os
-os.system("xdg-open https://chat.whatsapp.com/BWoakyhtbTR6ziMVrj5spz")
+os.system("xdg-open https://chat.whatsapp.com/GmhsxmuV1vt8A6sfQUyoWz")
 import smz
